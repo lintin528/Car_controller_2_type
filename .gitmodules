@@ -1,0 +1,8 @@
+[submodule "Supervised"]
+	path = Supervised
+	url = https://github.com/lintin528/car_supervised_learning
+	ranch = develop
+[submodule "RL"]
+	path = RL
+	url = https://github.com/alianlbj23/python_car_training_script
+	branch = develop
